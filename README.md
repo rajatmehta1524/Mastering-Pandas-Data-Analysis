@@ -51,9 +51,6 @@ jupyter notebook Playing_with_Pandas.ipynb
 ### **Step 4: Data Visualization**
 - Creating bar plots, histograms, and line charts using Pandas `.plot()`.
 
-## Example Output
-![Pandas Visualization Example](https://your-image-link-here.png)
-
 ## Future Improvements
 🚀 **Advanced Pandas Functions** – Implement time series analysis and pivot tables.  
 📊 **Integration with Seaborn & Matplotlib** – Enhance visualizations.  
